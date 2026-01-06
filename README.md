@@ -40,7 +40,7 @@ If you use this repository in your research, please <b>also cite the original In
 - [Citation](#citation)
 
 ## Free-view Rendering
-
+https://github.com/user-attachments/assets/bc1544b1-39ed-48b2-9554-54b63ed7736d
 
 
 ---
